@@ -1,0 +1,34 @@
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+target/
+build/
+out/
+bin/
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Allure reports
+allure-results/
+allure-report/
+
+# System Files
+.DS_Store
+Thumbs.db
